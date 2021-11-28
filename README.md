@@ -1,3 +1,1 @@
--📱 Desenvolvedor iOS / Linux
--📚 Estudante
--🖋 Objective-C, C, Python
+-📱 Desenvolvedor iOS / Linux | 📚 Estudante | 🖋 Objective-C, C, Python
