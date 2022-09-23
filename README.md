@@ -1,1 +1,1 @@
--📱 Desenvolvedor iOS / Linux | 📚 Estudante | 🖋 Objective-C, C, Python
+-📱 Desenvolvedor iOS / Linux | 📚 Estudante | 🖋 Objective-C, C, Python, Excel, Banco de dados (SQL Server e MySQL)
