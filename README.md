@@ -1,1 +1,1 @@
--📱 Developer iOS / Linux | 📚 Student | 🖋 Objective-C, C, Python, Node.js, Excel, Data Bases (SQL Server and MySQL)
+- 💼 Data Analytics and Developer | 🖋 Python, Excel, SQL (SQL Server and MySQL) and Power BI
